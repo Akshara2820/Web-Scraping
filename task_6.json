@@ -1,0 +1,165 @@
+{
+    "Tamil": [
+        {
+            "name": "Nayakan",
+            "poster_image_url": "https://www.imdb.com/title/tt0093603/mediaviewer/rm1040255488/?ref_=tt_ov_i",
+            "bio": "A common man's struggles against a corrupt police force put him on the wrong side of the law. He becomes a don, who is loved and respected by many, but his growing power and influence exact a heavy toll.",
+            "country": "India",
+            "langauge": "Tamil",
+            "runtime": 156,
+            "genres": [
+                "Crime",
+                "Drama"
+            ],
+            "director": [
+                "Mani Ratnam"
+            ]
+        },
+        {
+            "name": "Anbe Sivam",
+            "poster_image_url": "https://www.imdb.com/title/tt0367495/mediaviewer/rm3025237504/?ref_=tt_ov_i",
+            "bio": "Two men, one young and arrogant, the other damaged - physically but not spiritually - by life, are thrown together by circumstances, and find that they are in some ways bound together by fate.",
+            "country": "India",
+            "langauge": "Tamil",
+            "runtime": 160,
+            "genres": [
+                "Adventure",
+                "Comedy",
+                "Drama"
+            ],
+            "director": [
+                "Sundar C."
+            ]
+        },
+        {
+            "name": "Pariyerum Perumal",
+            "poster_image_url": "https://www.imdb.com/title/tt8176054/mediaviewer/rm2678026496/?ref_=tt_ov_i",
+            "bio": "A law student from a lower caste begins a friendship with his classmate, a girl who belongs to a higher caste, and the men in her family start giving him trouble over this.",
+            "country": "India",
+            "langauge": "Tamil",
+            "runtime": 154,
+            "genres": [
+                "Drama"
+            ],
+            "director": [
+                "Mari Selvaraj",
+                "Prabunath"
+            ]
+        }
+    ],
+    "Telugu": [
+        {
+            "name": "C/o Kancharapalem",
+            "poster_image_url": "https://www.imdb.com/title/tt7391996/mediaviewer/rm2611779329/?ref_=tt_ov_i",
+            "bio": "Four unconventional love stories set in the town and including the people of Kancherapalem.",
+            "country": "India",
+            "langauge": "Telugu",
+            "runtime": 152,
+            "genres": [
+                "Drama"
+            ],
+            "director": [
+                "Venkatesh Maha"
+            ]
+        }
+    ],
+    "Hindi": [
+        {
+            "name": "Golmaal",
+            "poster_image_url": "https://www.imdb.com/title/tt0079221/mediaviewer/rm3716412160/?ref_=tt_ov_i",
+            "bio": "A man's simple lie to secure his job escalates into more complex lies when his orthodox boss gets suspicious.",
+            "country": "India",
+            "langauge": "Hindi",
+            "runtime": 144,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "director": [
+                "Hrishikesh Mukherjee"
+            ]
+        }
+    ],
+    "Bengali": [
+        {
+            "name": "Apur Sansar",
+            "poster_image_url": "https://www.imdb.com/title/tt0052572/mediaviewer/rm2084100609/?ref_=tt_ov_i",
+            "bio": "This final installment in Satyajit Ray's Apu Trilogy follows Apu's life as an orphaned adult aspiring to be a writer.",
+            "country": "India",
+            "langauge": "Bengali",
+            "runtime": 105,
+            "genres": [
+                "Drama"
+            ],
+            "director": [
+                "Satyajit Ray"
+            ]
+        },
+        {
+            "name": "Pather Panchali",
+            "poster_image_url": "https://www.imdb.com/title/tt0048473/mediaviewer/rm2023787521/?ref_=tt_ov_i",
+            "bio": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
+            "country": "India",
+            "langauge": "Bengali",
+            "runtime": 125,
+            "genres": [
+                "Drama"
+            ],
+            "director": [
+                "Satyajit Ray"
+            ]
+        }
+    ],
+    "Malayalam": [
+        {
+            "name": "Manichitrathazhu",
+            "poster_image_url": "https://www.imdb.com/title/tt0214915/mediaviewer/rm676456192/?ref_=tt_ov_i",
+            "bio": "When a forbidden room in an old bungalow is unbolted, the spirit of a vengeful dancer is unleashed.",
+            "country": "India",
+            "langauge": "Malayalam",
+            "runtime": 169,
+            "genres": [
+                "Comedy",
+                "Horror",
+                "Music",
+                "Mystery",
+                "Thriller"
+            ],
+            "director": [
+                "Fazil"
+            ]
+        },
+        {
+            "name": "Kireedam",
+            "poster_image_url": "https://www.imdb.com/title/tt0237376/mediaviewer/rm3779787009/?ref_=tt_ov_i",
+            "bio": "The life of a young man turns upside down when he intervenes in a dispute in order to rescue his father (a cop) from a ruthless local outlaw.",
+            "country": "India",
+            "langauge": "Malayalam",
+            "runtime": 124,
+            "genres": [
+                "Action",
+                "Drama"
+            ],
+            "director": [
+                "Sibi Malayil"
+            ]
+        }
+    ],
+    "Marathi": [
+        {
+            "name": "Natsamrat",
+            "poster_image_url": "https://www.imdb.com/title/tt5311546/mediaviewer/rm3539275520/?ref_=tt_ov_i",
+            "bio": "After he retires, an aging theatre actor and his wife begin to feel unwanted by their children.",
+            "country": "India",
+            "langauge": "Marathi",
+            "runtime": 166,
+            "genres": [
+                "Drama",
+                "Family"
+            ],
+            "director": [
+                "Mahesh Manjrekar"
+            ]
+        }
+    ]
+}
